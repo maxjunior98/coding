@@ -10,15 +10,15 @@ Example:
 
 * The matrix
 
-|5 3 4|
-|1 5 8|
-|6 4 2|
+|5 3 4| <br>
+|1 5 8| <br>
+|6 4 2| <br>
 
 * The Magic Square of that matrix:
 
-|8 3 4|
-|1 5 9|
-|6 7 2|
+|8 3 4| <br>
+|1 5 9| <br>
+|6 7 2| <br>
 
 The cost of this is |5-8| + |8-9| + |4-7| = 7
 
