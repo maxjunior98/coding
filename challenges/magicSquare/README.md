@@ -52,10 +52,10 @@ This will give us the 8 matrices that can solve the problem. Now the next step i
 #### Pseudocode
 The simplification for a code is:
 
-function getMinCost(inputMatrix) {
+`function getMinCost(inputMatrix) {
     array = []
     for S of solutions ##all 8 solutions
         C = inputMatrix - S
         array[i] = getSumOfElements(C)
     return min(array)
-}
+}`
